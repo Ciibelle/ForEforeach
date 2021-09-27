@@ -1,0 +1,16 @@
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\obj\Debug\net5.0\RevisaoForEforeach.csproj.AssemblyReference.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\obj\Debug\net5.0\RevisaoForEforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\obj\Debug\net5.0\RevisaoForEforeach.AssemblyInfoInputs.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\obj\Debug\net5.0\RevisaoForEforeach.AssemblyInfo.cs
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\obj\Debug\net5.0\RevisaoForEforeach.csproj.CoreCompileInputs.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\bin\Debug\net5.0\RevisaoForEforeach.exe
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\bin\Debug\net5.0\RevisaoForEforeach.deps.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\bin\Debug\net5.0\RevisaoForEforeach.runtimeconfig.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\bin\Debug\net5.0\RevisaoForEforeach.runtimeconfig.dev.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\bin\Debug\net5.0\RevisaoForEforeach.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\bin\Debug\net5.0\ref\RevisaoForEforeach.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\bin\Debug\net5.0\RevisaoForEforeach.pdb
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\obj\Debug\net5.0\RevisaoForEforeach.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\obj\Debug\net5.0\ref\RevisaoForEforeach.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\obj\Debug\net5.0\RevisaoForEforeach.pdb
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\Revisao\RevisaoForEforeach\obj\Debug\net5.0\RevisaoForEforeach.genruntimeconfig.cache
